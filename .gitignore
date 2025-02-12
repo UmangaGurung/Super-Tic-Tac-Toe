@@ -1,0 +1,14 @@
+# Ignore build files
+/build/
+lwjgl3/build/
+core/build/
+
+# Ignore JAR files
+*.jar
+
+# Ignore IDE-related files
+.idea/
+*.iml
+
+# Ignore Gradle cache files
+.gradle/
