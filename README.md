@@ -15,7 +15,7 @@ This project was generated with a template including simple application launcher
 ## Project Setup
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/UmangaGurung/Super-Alu-Cross.git
 
 2. Place the assets folder in the correct location:
    After cloning the repository, you must copy the assets folder and place it in the following directory within your project structure:
