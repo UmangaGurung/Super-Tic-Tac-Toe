@@ -12,20 +12,24 @@ This project was generated with a template including simple application launcher
 - `core`: Main module with the application logic shared by all platforms.
 - `lwjgl3`: Primary desktop platform using LWJGL3; was called 'desktop' in older docs.
 
-## Project Setup
+# Project Setup
 
 1. Clone the repository:
-   
-   'git clone https://github.com/UmangaGurung/Super-Alu-Cross.git'
+
+Run the following command to clone the repository:
+
+```bash
+git clone https://github.com/UmangaGurung/Super-Alu-Cross.git
+```
 
 2. Place the assets folder in the correct location:
    After cloning the repository, you must copy the assets folder and place it in the following directory within your project structure:
    
-   lwjgl3/src/main/resources/assets/
+   `lwjgl3/src/main/resources/assets/`
 
    Important: If you do not perform this step, the project will fail to run because the necessary assets (e.g., uiskin.json, textures, fonts) will be missing, resulting in errors such as:
    
-   com.badlogic.gdx.utils.SerializationException: Error reading file: assets/uiskin.json
+   `com.badlogic.gdx.utils.SerializationException: Error reading file: assets/uiskin.json`
 
 3. Build and Run:
 
