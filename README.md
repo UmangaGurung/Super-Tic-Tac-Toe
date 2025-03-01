@@ -16,11 +16,11 @@ This project was generated with a template including simple application launcher
 
 1. Clone the repository:
 
-Run the following command to clone the repository:
+   Run the following command to clone the repository:
 
-```bash
-git clone https://github.com/UmangaGurung/Super-Alu-Cross.git
-```
+   ```bash
+   git clone https://github.com/UmangaGurung/Super-Alu-Cross.git
+   ```
 
 2. Place the assets folder in the correct location:
 
