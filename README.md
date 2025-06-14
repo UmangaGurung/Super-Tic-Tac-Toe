@@ -19,7 +19,7 @@ This project was generated with a template including simple application launcher
    Run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/UmangaGurung/Super-Alu-Cross.git
+   git clone https://github.com/UmangaGurung/Super-Tic-Tac-Toe
    ```
 
 2. Place the assets folder in the correct location:
